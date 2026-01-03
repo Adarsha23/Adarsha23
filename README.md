@@ -11,7 +11,7 @@
 <h3 align="center">Aspiring to become the best</h3>
 
 <ul>
-  <li>Currently learning: <strong>Python, FastAPI</strong></li>
+  <li>Currently learning: <strong>Python, FastAPI, and n8n workflows</strong></li>
   <li>Contact: <strong>prasaiadarsha@gmail.com</strong></li>
 </ul>
 
