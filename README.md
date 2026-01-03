@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0000000&text=Adarsh&fontColor=ffffff&fontSize=70" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adarsha23&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="center">Aspiring to become the best</h3>
 
