@@ -15,11 +15,6 @@
   <li>Contact: <strong>prasaiadarsha@gmail.com</strong></li>
 </ul>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsha23&theme=default" />
-  </a>
-</p>
 
 <h3>Languages and Tools</h3>
 <img src="https://skillicons.dev/icons?i=c,html,js,python,react&theme=dark" />
