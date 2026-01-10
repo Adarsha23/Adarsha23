@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsha23&theme=react-dark" width="100%" />
+    <img src="[https://github-readme-activity-graph.vercel.app/graph?username=Adarsha23&theme=react-dark" width="100%](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Focus%20%&fontAlign=51&textBg=false&fontColor=2E4A62&animation=fadeIn&desc=Be%20Consistent&descAlignY=60)" />
   </a>
 </p>
 <p align="center">
