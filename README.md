@@ -10,7 +10,9 @@
 </p>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Adarsha23&theme=dark&hide_border=true" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsha23&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
   <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=0A0D12&fontAlign=51&textBg=false&fontColor=9CA3AF&animation=fadeIn&stroke=fff&desc=Aspiring%20to%20become%20the%20best&descAlignY=50&section=footer&reversal=false" />
