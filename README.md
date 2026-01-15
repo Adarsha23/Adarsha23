@@ -3,6 +3,9 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsha23&theme=react-dark" width="100%" />
   </a>
   <p align="center">
+  <strong>Been using Git since 1969, btw</strong>
+</p>
+  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Focus&fontAlign=51&textBg=false&fontColor=2E4A62&animation=fadeIn&desc=Be%20Consistent&descAlignY=60" />
 </p>
 </p>
