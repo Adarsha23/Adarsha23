@@ -9,11 +9,6 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Focus&fontAlign=51&textBg=false&fontColor=2E4A62&animation=fadeIn&desc=Be%20Consistent&descAlignY=60" />
 </p>
 </p>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsha23&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
   <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=0A0D12&fontAlign=51&textBg=false&fontColor=9CA3AF&animation=fadeIn&stroke=fff&desc=Aspiring%20to%20become%20the%20best&descAlignY=50&section=footer&reversal=false" />
 </p>
